@@ -1,2 +1,2 @@
-# test
-this is just a test repo to see how it works
+# Clinic Management System
+this is a learning project where i learn and see the world of web development
